@@ -9,6 +9,8 @@ custom-setup:
 dependencies:
   - base >= 4.7 && < 5
   - codeworld-api == 0.8.1
+  - text
+  - hashmap
 
 ghc-options:
   - -threaded

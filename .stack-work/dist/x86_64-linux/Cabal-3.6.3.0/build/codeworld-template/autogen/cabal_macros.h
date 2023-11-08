@@ -40,6 +40,26 @@
   (major1) == 0 && (major2) <  0 || \
   (major1) == 0 && (major2) == 0 && (minor) <= 0)
 #endif /* MIN_VERSION_codeworld_template */
+/* package hashmap-1.3.3 */
+#ifndef VERSION_hashmap
+#define VERSION_hashmap "1.3.3"
+#endif /* VERSION_hashmap */
+#ifndef MIN_VERSION_hashmap
+#define MIN_VERSION_hashmap(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  3 || \
+  (major1) == 1 && (major2) == 3 && (minor) <= 3)
+#endif /* MIN_VERSION_hashmap */
+/* package text-1.2.5.0 */
+#ifndef VERSION_text
+#define VERSION_text "1.2.5.0"
+#endif /* VERSION_text */
+#ifndef MIN_VERSION_text
+#define MIN_VERSION_text(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  2 || \
+  (major1) == 1 && (major2) == 2 && (minor) <= 5)
+#endif /* MIN_VERSION_text */
 
 /* tool gcc-12 */
 #ifndef TOOL_VERSION_gcc
@@ -133,7 +153,7 @@
 #endif /* MIN_TOOL_VERSION_strip */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "codeworld-template-0.0.0-2gQWLn9qi2d7IdkNr8fCaU-codeworld-template"
+#define CURRENT_COMPONENT_ID "codeworld-template-0.0.0-A00k3GSMTgZGhpVMEh5sKP-codeworld-template"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.0.0"

@@ -43,7 +43,7 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/bin"
-libdir     = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/lib/x86_64-linux-ghc-9.2.7/codeworld-template-0.0.0-2gQWLn9qi2d7IdkNr8fCaU-codeworld-template"
+libdir     = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/lib/x86_64-linux-ghc-9.2.7/codeworld-template-0.0.0-A00k3GSMTgZGhpVMEh5sKP-codeworld-template"
 dynlibdir  = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/lib/x86_64-linux-ghc-9.2.7"
 datadir    = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/share/x86_64-linux-ghc-9.2.7/codeworld-template-0.0.0"
 libexecdir = "/home/menna242/GithubProjects/GoTime/.stack-work/install/x86_64-linux-tinfo6/905e241e03819f8dea0c2b73b42b9ebecf3464be509ff035252bae334fcc75c3/9.2.7/libexec/x86_64-linux-ghc-9.2.7/codeworld-template-0.0.0"

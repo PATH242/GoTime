@@ -1,16 +1,16 @@
 /home/menna242/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
   hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
 /home/menna242/GithubProjects/GoTime/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_codeworld_template.hs:
-  hash: 6f9964d0e514b3bfe14998824565bd48c5d0445e29ca59ec122a6f4a84da2b6e
+  hash: 7a1c5e8d3a25967d4abb69b8be84f3a680554d280f163cad616e84e52dd59a25
 /home/menna242/GithubProjects/GoTime/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
-  hash: 7a11164b91f8a75f14ba465a483a41582d0e88bc22f086e459ff835286d7426c
+  hash: a2c4f6f693efd5076095de312ea4d8c4e2c90c7f6b8301aa5feca993f41f7699
 /home/menna242/GithubProjects/GoTime/Setup.hs:
   hash: 5066653559d4d6134b022d66a634a17fdcf8db35d28b447e581fec284afa4689
 /home/menna242/GithubProjects/GoTime/codeworld-template.cabal:
-  hash: c5c55722c9197b68c5a42b2fc284435bd4ee2635eacaa5fd960954d25171dae3
+  hash: d9b9a5f603aaffeadd97d2de469c5c5844294f401bbaf3158941afd2c96421a1
 /home/menna242/GithubProjects/GoTime/package.yaml:
-  hash: adc243cec60527570d7ed86151a4da7efbe1953f4ec09c140d30263e678ab774
+  hash: a3de237ea7a8079038fe2f9628777d2031e9a87944092db102d5dc54b99671f0
 /home/menna242/GithubProjects/GoTime/src/Project.hs:
-  hash: d5d91c3d3d6f58eecf676ef3dfb7b5f34b7262722a637c2879b8538bdc196ff4
+  hash: e4c6115778acc749ced9fe0f0eda81f29f775f9c597177c4ff3a3ec42be8f485
 /usr/include/stdc-predef.h:
   hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
