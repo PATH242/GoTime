@@ -1,0 +1,13 @@
+resolver: lts-20.23
+
+packages:
+  - .
+
+extra-deps:
+  - codeworld-api-0.8.1
+  - reflex-0.9.0.1
+  - patch-0.0.8.1
+  - commutative-semigroups-0.1.0.1
+
+ghc-options:
+  '$locals': -Wall -fno-warn-type-defaults
