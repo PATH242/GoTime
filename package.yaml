@@ -1,4 +1,4 @@
-name: codeworld-template
+name: go-time
 
 custom-setup:
   dependencies:
@@ -21,18 +21,18 @@ library:
   source-dirs: src
 
 executables:
-  codeworld-template:
+  go-time:
     main: Main.hs
     source-dirs: app
     dependencies:
-      - codeworld-template
+      - go-time
 
 tests:
   spec:
     main:                Spec.hs
     source-dirs:         tests
     dependencies:
-    - codeworld-template
+    - go-time
     - hspec
     build-tools:
     - hspec-discover:hspec-discover

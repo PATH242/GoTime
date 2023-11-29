@@ -4,7 +4,7 @@ cabal-version: 1.24
 --
 -- see: https://github.com/sol/hpack
 
-name:           codeworld-template
+name:           go-time
 version:        0.0.0
 license:        BSD3
 license-file:   LICENSE
@@ -20,7 +20,7 @@ library
   exposed-modules:
       Project
   other-modules:
-      Paths_codeworld_template
+      Paths_go_time
   hs-source-dirs:
       src
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
@@ -31,17 +31,17 @@ library
     , text
   default-language: Haskell2010
 
-executable codeworld-template
+executable go-time
   main-is: Main.hs
   other-modules:
-      Paths_codeworld_template
+      Paths_go_time
   hs-source-dirs:
       app
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
     , codeworld-api ==0.8.1
-    , codeworld-template
+    , go-time
     , hashmap
     , text
   default-language: Haskell2010
@@ -65,7 +65,7 @@ test-suite spec
   main-is: Spec.hs
   other-modules:
       ProjectSpec
-      Paths_codeworld_template
+      Paths_go_time
   hs-source-dirs:
       tests
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
@@ -74,7 +74,7 @@ test-suite spec
   build-depends:
       base >=4.7 && <5
     , codeworld-api ==0.8.1
-    , codeworld-template
+    , go-time
     , hashmap
     , hspec
     , text
